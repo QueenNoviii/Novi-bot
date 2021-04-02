@@ -1,4 +1,4 @@
-### 
+### Novi-bot
 
 ## Tools
 
@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/D1M5-DARKBOT/termux-bot-whatsapp
-> cd termux-bot-whatsapp
+> git clone https://github.com/QueenNoviii/Novi-bot
+> cd Novi-bot
 > npm cache clear
 > bash install.sh
 > npm audit fix
@@ -206,7 +206,7 @@ Follow The Steps Below!
 
 ## Note
 
-* Dont Forget Stars
+* Dont Forget 
 
 * |En| And You can add your own quotes
 * |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
@@ -220,10 +220,8 @@ Follow The Steps Below!
 
 
 
-* [Req Fitur](https://wa.me/6282347616126)
+* contack me: https://wa.me/6282347616126
+* instagram : https://instagram.com/ecinvntii
 
-## Group
-
-* <a href="https://chat.whatsapp.com/BtxiSvctCej1e1Ehkm8h9Q"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
